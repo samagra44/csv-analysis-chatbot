@@ -1,11 +1,7 @@
-**README.md**
-===============
-
 **CSV Analysis Chatbot**
 ------------------------
 
 **Table of Contents**
------------------
 
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
@@ -19,12 +15,10 @@
 10. [License](#license)
 
 **Introduction**
----------------
 
 Welcome to the CSV Analysis Chatbot project! This project aims to provide a user-friendly interface for analyzing CSV files using a chatbot. The chatbot uses natural language processing (NLP) to understand user queries and provides relevant results based on the data in the CSV file.
 
 **Project Overview**
--------------------
 
 The CSV Analysis Chatbot project is built using the following technologies:
 
@@ -39,7 +33,6 @@ The project consists of the following components:
 * **OpenRouter API**: A cloud-based API that provides NLP capabilities for the agent.
 
 **Features**
-------------
 
 The CSV Analysis Chatbot project offers the following features:
 
@@ -49,7 +42,6 @@ The CSV Analysis Chatbot project offers the following features:
 * **Visualization**: The chatbot can provide visualizations of the data in the CSV file.
 
 **Installation**
-------------
 
 To install the CSV Analysis Chatbot project, follow these steps:
 
@@ -77,8 +69,13 @@ To install the CSV Analysis Chatbot project, follow these steps:
 3. **Ask Queries**: Ask natural language queries about the data in the CSV file.
 4. **View Results**: View the relevant results provided by the chatbot.
 
+## Output
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f4571633-9e13-4cf0-a25f-ea01b3be4020" width=700 height=300 alt="animated"/>
+</p>
+
 **Troubleshooting**
-------------------
 
 If you encounter any issues while running the project, refer to the following troubleshooting steps:
 
@@ -87,10 +84,10 @@ If you encounter any issues while running the project, refer to the following tr
 * **Check CSV File**: Ensure that the CSV file is uploaded correctly and is in the correct format.
 
 **Contributing**
-------------
 
 If you'd like to contribute to the CSV Analysis Chatbot project, follow these steps:
 
 * **Fork the Repository**: Fork the CSV Analysis Chatbot repository using Git.
 * **Make Changes**: Make changes to the project code.
 * **Submit a Pull Request**: Submit a pull request to the original repository.
+-------------
